@@ -29,7 +29,10 @@ I'm a **Junior Frontend Developer** who loves building clean and functional web 
 ![BEM](https://img.shields.io/badge/BEM-Block__Element--Modifier-000000?style=for-the-badge&logoColor=white)
 
 
-![admitruk237 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=admitruk237&show_icons=true&bg_color=00000000)
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=admitruk237&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 🎯 Always learning, always improving  
 🐛 I don't leave bugs alive  
