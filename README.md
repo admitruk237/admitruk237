@@ -29,7 +29,7 @@ I'm a **Junior Frontend Developer** who loves building clean and functional web 
 ![BEM](https://img.shields.io/badge/BEM-Block__Element--Modifier-000000?style=for-the-badge&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![admitruk237 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 🎯 Always learning, always improving  
 🐛 I don't leave bugs alive  
