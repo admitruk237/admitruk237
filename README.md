@@ -29,14 +29,15 @@ I'm a **Junior Frontend Developer** who loves building clean and functional web 
 ![BEM](https://img.shields.io/badge/BEM-Block__Element--Modifier-000000?style=for-the-badge&logoColor=white)
 <br/>
 <br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=admitruk237&show_icons=true&bg_color=00000000" alt="Andrii's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admitruk237&layout=compact" alt="Top Languages" height="150" />
+</p>
+
 <br/>
 <br/>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=admitruk237&show_icons=true&bg_color=00000000" alt="Andrii's GitHub Stats" height="150"/>
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=admitruk237&layout=compact" alt="Top Languages" height="150"/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 🎯 Always learning, always improving  
 🐛 I don't leave bugs alive  
