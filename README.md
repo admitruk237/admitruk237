@@ -9,6 +9,8 @@ I'm a **Junior Frontend Developer** who loves building clean and functional web 
 [![Instagram](https://img.shields.io/badge/Instagram-text?logo=instagram&color=%23cc2366)](https://www.instagram.com/dmytruk_andrii_/?utm_source=qr&igsh=ZmZrcHN3dXQyemt1)
 [![Facebook](https://img.shields.io/badge/Facebook-text?logo=facebook&color=blue)](https://www.facebook.com/share/18xKDJ3szf/)
 [![Gmail](https://img.shields.io/badge/admitruk237%40gmail.com-text?logo=gmail&logoColor=white&color=red)](mailto:admitruk237@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-text?logo=telegram&logoColor=white&color=blue)](https://t.me/Dmytruk_Andrii)
+
 
 
 
