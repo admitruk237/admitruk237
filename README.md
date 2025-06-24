@@ -26,9 +26,8 @@ I'm a **Junior Frontend Developer** who loves building clean and functional web 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu
-b3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAwaDMydjMySDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTEzIDJ2NmgtMnYySDd2MnYyaDJ2MmgydjJIMTJ2MmgyVjEy
-aDJ2LTJoMlY4aDJWNmgydjRIMjZWNkg0VjJ6Ii8+PC9zdmc+)
+![BEM](https://img.shields.io/badge/BEM-Block__Element--Modifier-000000?style=for-the-badge&logoColor=white)
+
 
 
 🎯 Always learning, always improving  
