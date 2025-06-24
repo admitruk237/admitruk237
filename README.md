@@ -15,7 +15,21 @@ I'm a **Junior Frontend Developer** who loves building clean and functional web 
 
 
 🛠️ Tech Stack:  
-React ⚛️ | Next.js 🚀 | TypeScript 💙 | Redux Toolkit 🔧 | Tailwind CSS 🎨  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu
+b3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAwaDMydjMySDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTEzIDJ2NmgtMnYySDd2MnYyaDJ2MmgydjJIMTJ2MmgyVjEy
+aDJ2LTJoMlY4aDJWNmgydjRIMjZWNkg0VjJ6Ii8+PC9zdmc+)
+
 
 🎯 Always learning, always improving  
 🐛 I don't leave bugs alive  
