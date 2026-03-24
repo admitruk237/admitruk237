@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Andrii!
 
-I'm a **Junior Frontend Developer** who loves building clean and functional web interfaces.
+I'm a **Frontend Developer** who loves building clean and functional web interfaces.
 
 📫 Reach me out!
 
