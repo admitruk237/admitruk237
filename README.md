@@ -44,7 +44,7 @@ I'm a **Frontend Developer** who loves building clean and functional web interfa
 
 🎯 Always learning, always improving  
 🐛 I don't leave bugs alive  
-🚀 Currently working on pet projects and sharpening my skills
+
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
